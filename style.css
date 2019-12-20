@@ -1,0 +1,74 @@
+.mb-200{
+    margin-bottom: 200px;
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
+
+.img-circle{
+    border-radius: 50%;
+    height: 100px;
+    margin: -350px 20px 0px 20px;
+    border: 1px solid skyblue;
+    width: 100px;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.alumni{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.content{
+    height: 300px;
+}
+
+.kaki{
+    background-color:  #1E90FF;
+    margin: 50px -15px 0px -15px;
+    padding: 100px;
+    color: whitesmoke;
+}
+
+.blog{
+    margin-top: 10px;
+    color:cornflowerblue;
+}
+
+.about{
+    margin-top: 50px;
+    color:  #1E90FF;
+}
+
+.mid{
+    width: 100%;
+    background-color: #1E90FF;
+    text-align: center;
+    color: white;
+}
+
+.contact{
+    color: #1E90FF;
+    margin-top: 25px;
+}
+
+.web{
+    color: #1E90FF;
+    margin-top: 20px;
+}
+
+#gambar{
+    margin-top: 20px;
+}
+
+#tombol{
+    margin-right: 20px;
+}
+
+.nav{
+    margin-top: 20px;
+}
